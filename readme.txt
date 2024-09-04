@@ -22,6 +22,8 @@ More details [here](http://www.gnu.org/licenses/gpl-2.0.html).
 == Images ==
 
 Image for theme screenshot
+https://stocksnap.io/photo/CGFCLEUTF2
+https://stocksnap.io/photo/ZG0Z82WYGE
 
 == Changelog ==
 
