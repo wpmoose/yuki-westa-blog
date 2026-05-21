@@ -16,7 +16,7 @@ if ( ! defined( 'YUKI_DISABLE_HOMEPAGE_BUILDER' ) ) {
 
 if ( ! defined( 'YUKI_WESTA_BLOG_VERSION' ) ) {
 	// Replace the version number of the theme on each release.
-	define( 'YUKI_WESTA_BLOG_VERSION', '1.0.0' );
+	define( 'YUKI_WESTA_BLOG_VERSION', '1.0.1' );
 }
 
 if ( ! defined( 'YUKI_WESTA_BLOG_PATH' ) ) {
